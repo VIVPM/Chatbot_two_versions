@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
 
         getChatbotResponse(userMessage, callback) {
-            const apiKey = "AIzaSyAOMP75rEoqkJYUibWQI_fz5jubbi2FW-E";  // Replace with your actual API key
+            const apiKey = "";  // Replace with your actual API key
 
             // Prepare the request payload
             const data = {
